@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/cmakehassan/cmakehassan/main/binary-rain-header.svg" width="100%" height="150"/></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=0EA5A5&center=true&vCenter=true&width=760&lines=Embedded%20Systems%20%26%20AIoT%20Firmware%20Engineer;Board%20bring-up%20%C2%B7%20Driver%20development%20%C2%B7%20RTOS%20tasks%20%C2%B7%20Secure%20OTA;HAL/LL%20drivers%20%C2%B7%20DMA%20%C2%B7%20ISR%20design%20%C2%B7%20Power%20%26%20memory%20tuning;BLE%20%C2%B7%20Wi-Fi%20%C2%B7%20MQTT%20%C2%B7%20Modbus%20%C2%B7%20CAN%20%C2%B7%20RS-485%20%C2%B7%20I2C%20%C2%B7%20SPI%20%C2%B7%20TCP/IP;TensorFlow%20%C2%B7%20PyTorch%20%C2%B7%20Edge%20Analytics%20%C2%B7%20Model%20Training;Siemens%20%26%20Mitsubishi%20PLCs%20%C2%B7%20SCADA%20Connectivity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=0EA5A5&center=true&vCenter=true&width=760&lines=Embedded%20Systems%20%26%20AIoT%20Firmware%20Engineer;Board%20bring-up%20%C2%B7%20Driver%20development%20%C2%B7%20RTOS%20tasks%20%C2%B7%20Secure%20OTA;HAL/LL%20drivers%20%C2%B7%20DMA%20%C2%B7%20ISR%20design%20%C2%B7%20Power%20%26%20memory%20tuning;BLE%20%C2%B7%20Wi-Fi%20%C2%B7%20MQTT%20%C2%B7%20Modbus%20%C2%B7%20CAN%20%C2%B7%20RS-485%20%C2%B7%20I2C%20%C2%B7%20SPI%20%C2%B7%20TCP/IP;TensorFlow%20%C2%B7%20PyTorch%20%C2%B7%20Edge%20Analytics%20%C2%B7%20Model%20Training;Siemens%20%26%20Mitsubishi%20PLCs%20%C2%B7%20SCADA%20Connectivity;Azure%20DevOps%20CI/CD%20%C2%B7%20Self-hosted%20agents%20on%20Pi%20%C2%B7%20Azure/AWS%20IoT" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/cmakehassan/cmakehassan/main/gradient-divider.svg" width="100%" height="6"/></p>
@@ -15,7 +15,8 @@ Strong in **STM32 / ESP32 / RPI / nRF / Arduino** and **industrial integrations*
 - ⏱️ **RTOS:** task design, queues, timers, ISRs, zero-copy buffers, profiling  
 - 📡 **Protocols:** BLE, Wi-Fi, MQTT, Modbus, CAN, RS-485, I²C, SPI, TCP/IP  
 - 🧠 **ML Expertise:** data preprocessing, model training (classification, regression, CV), TensorFlow/PyTorch  
-- 🏭 **Industrial:** Siemens/Mitsubishi PLCs, SCADA connectivity, field deployments
+- 🏭 **Industrial:** Siemens/Mitsubishi PLCs, SCADA connectivity, field deployments  
+- ☁️ **DevOps/Cloud IoT:** Azure DevOps CI/CD, self-hosted pipeline agents on Raspberry Pi, Azure IoT Hub/Edge, AWS IoT Core/Greengrass
 
 <p align="center"><img src="https://raw.githubusercontent.com/cmakehassan/cmakehassan/main/gradient-divider.svg" width="100%" height="6"/></p>
 
@@ -104,5 +105,18 @@ Strong in **STM32 / ESP32 / RPI / nRF / Arduino** and **industrial integrations*
 ![Siemens (Simatic Manager)](https://img.shields.io/badge/Siemens_Simatic_Manager-009999?logo=siemens&logoColor=white&style=for-the-badge)
 ![Mitsubishi (FX/TRn)](https://img.shields.io/badge/Mitsubishi_PLC_Tools-B90000?style=for-the-badge)
 ![SCADA](https://img.shields.io/badge/SCADA-0B7285?style=for-the-badge)
+
+<p align="center"><img src="https://raw.githubusercontent.com/cmakehassan/cmakehassan/main/gradient-divider.svg" width="100%" height="6"/></p>
+
+### ☁️ DevOps & Cloud IoT
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?logo=azuredevops&logoColor=white&style=for-the-badge)
+![Self-Hosted Agent (Raspberry Pi)](https://img.shields.io/badge/Self--Hosted_Agent_on_Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Azure IoT Hub](https://img.shields.io/badge/Azure_IoT_Hub-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Azure IoT Edge](https://img.shields.io/badge/Azure_IoT_Edge-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![AWS IoT Greengrass](https://img.shields.io/badge/AWS_IoT_Greengrass-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 <p align="center"><img src="https://raw.githubusercontent.com/cmakehassan/cmakehassan/main/binary-rain-footer.svg" width="100%" height="100"/></p>
